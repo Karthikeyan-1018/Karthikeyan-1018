@@ -1,324 +1,141 @@
-<div align="center">
+<h1 align="center">Karthikeyan A</h1>
 
-<!-- HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=220&section=header&text=Karthikeyan%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.E.%20Computer%20Science%20Engineering%20Student&descAlignY=60&descSize=18"/>
-
-<br>
-
-# 💙 Hi, I'm Karthikeyan A
-
-### `Full-Stack Developer` • `AI/ML Enthusiast` • `Cloud Learner`
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-1565C0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-1976D2?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/Karthikeyan-1018">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&height=42&lines=Hi+there!+I'm+Karthikeyan+A+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%8E%93;Full-Stack+Development+%26+AI%2FML+%F0%9F%92%BB;Cloud%2C+DevOps+%26+Competitive+Programming+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Karthikeyan-1018&label=Profile%20Views&color=1565C0&style=for-the-badge"/>
-
-</div>
-
----
-
-<!-- ABOUT ME -->
-
-## 💙 About Me
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212750266-1f8e6e4c-5c31-4e44-8f6f-5d6c5f5f7c7d.gif">
-
-I'm a **B.E. Computer Science Engineering student** passionate about software development and emerging technologies.
-
-I enjoy building practical applications, experimenting with new technologies, and turning ideas into working solutions.
-
-### 🚀 What I Do
-
-- 💻 Build **Full-Stack Web Applications**
-- 🤖 Explore **Artificial Intelligence & Machine Learning**
-- ☁️ Learn **Cloud Computing & DevOps**
-- 🔐 Explore **Cybersecurity & Cryptography**
-- 🧠 Practice **Data Structures & Algorithms**
-- 🚀 Participate in **Hackathons & Technical Projects**
-
-<br clear="right"/>
-
----
-
-<!-- TECH STACK -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
-
-<br><br>
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux"/>
-
-<br><br>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-1565C0?style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-1976D2?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D47A1?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<br><br>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,nginx"/>
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,idea"/>
-
-</div>
-
----
-
-<!-- PROJECTS -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌱 AI Agricultural Advisory System
-
-An AI-powered multilingual agricultural assistant designed to help users retrieve relevant agricultural knowledge and receive useful answers to their queries.
-
-**Technologies**
-
-`Python`  
-`NLP` `Hugging Face`  
-`Sentence Transformers`  
-`Pinecone` `RAG`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📝 Blogging Platform
-
-A full-stack blogging platform where users can create blogs, add comments, report inappropriate content, and interact with a secure backend.
-
-**Technologies**
-
-`Java`  
-`Spring Boot` `React`  
-`MySQL` `JPA`  
-`JWT` `Swagger`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌍 BEACON
-
-An IoT-based environmental intelligence system designed to collect sensor data and provide environmental monitoring using distributed sensor nodes.
-
-**Technologies**
-
-`ESP32`  
-`LoRa` `IoT`  
-`Sensors`  
-`Edge Computing`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 HMAC Algorithm Visualizer
-
-An interactive web application that visually explains the steps involved in the HMAC algorithm and demonstrates the cryptographic process.
-
-**Technologies**
-
-`HTML` `CSS`  
-`JavaScript`  
-`Cryptography` `HMAC`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📋 TaskFlow
-
-A task management application designed to help users create, manage, and organize tasks through a modern web application.
-
-**Technologies**
-
-`Node.js`  
-`Express.js`  
-`MongoDB`  
-`React`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏨 Hotel Room Reservation System
-
-A web-based reservation system designed to manage hotel rooms, bookings, and customer information.
-
-**Technologies**
-
-`Java`  
-`Spring Boot`  
-`MySQL`  
-`REST API`
-
-</td>
-
-</tr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthikeyan1018/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Karthikeyan001018/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-2563EB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Karthikeyan-1018" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-1E3A8A?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0d1117" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karthikeyan-1018&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Hi! I'm <b>Karthikeyan A</b>, a third-year <b>B.E. Computer Science and Engineering</b> student at
+  <b>Sri Krishna College of Engineering and Technology (SKCET)</b>, based in Chennai, Tamil Nadu.<br />
+  I enjoy building full-stack applications, exploring AI/ML, learning cloud and DevOps, and practising competitive programming.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-2563EB?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Batch-2027%2F2028-1E3A8A?style=flat-square" alt="Batch" />
+  <img src="https://img.shields.io/badge/Goal-Placements-2563EB?style=flat-square" alt="Goal" />
+</p>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🎓 Education</h4>
+      <p><b>B.E. Computer Science and Engineering</b><br /><sub>SKCET · Batch 2027/2028</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🎯 Career Goal</h4>
+      <p><b>Placements at product and service companies</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🔭 Areas of Interest</h4>
+      <p><b>Full-Stack Development · AI/ML</b><br /><sub>Cloud/DevOps · Competitive Programming</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🤝 Collaboration</h4>
+      <p><b>Open to projects and hackathons</b><br /><sub>Reach out on LinkedIn</sub></p>
+    </td>
+  </tr>
 </table>
 
----
+<h2 align="center">Projects</h2>
 
-<!-- GITHUB STATS -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Karthikeyan-1018&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&icon_color=2196F3&text_color=90CAF9&border_color=1565C0"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-1018&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&text_color=90CAF9&border_color=1565C0"/>
-
-</div>
-
----
-
-<!-- STREAK -->
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Karthikeyan-1018&theme=tokyonight&background=0D1117&border=1565C0&stroke=1565C0&ring=42A5F5&fire=2196F3&currStreakLabel=90CAF9&sideLabels=90CAF9&dates=90CAF9"/>
-
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karthikeyan-1018&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-<!-- CURRENTLY LEARNING -->
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<table>
-<tr>
-<th>Technology</th>
-<th>Focus</th>
-</tr>
-
-<tr>
-<td>☕ Java</td>
-<td>Advanced Java & Spring Boot</td>
-</tr>
-
-<tr>
-<td>🤖 AI / ML</td>
-<td>Machine Learning & NLP</td>
-</tr>
-
-<tr>
-<td>🧠 DSA</td>
-<td>Algorithms & Problem Solving</td>
-</tr>
-
-<tr>
-<td>☁️ AWS</td>
-<td>Cloud Architecture & Deployment</td>
-</tr>
-
-<tr>
-<td>🐳 Docker</td>
-<td>Containerization & DevOps</td>
-</tr>
-
-<tr>
-<td>🔐 Cybersecurity</td>
-<td>Cryptography & Network Security</td>
-</tr>
-
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="50%" style="padding: 14px;">
+      <h4>📝 Blogging Platform</h4>
+      <p>Full-stack blogging platform built with Spring Boot and React.</p>
+    </td>
+    <td width="50%" style="padding: 14px;">
+      <h4>🔐 HMAC Algorithm Visualizer</h4>
+      <p>Interactive React/Vite visualizer for the HMAC algorithm (Applied Cryptography).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 14px;">
+      <h4>🌾 AI-Driven Smart Farming Assistant</h4>
+      <p>Multilingual agricultural guidance and farmer support system.</p>
+    </td>
+    <td width="50%" style="padding: 14px;">
+      <h4>🌍 Environmental Intelligence Network</h4>
+      <p>Smart India Hackathon 2026 team project (Qualcomm problem statement).</p>
+    </td>
+  </tr>
 </table>
 
-</div>
+<p align="center"><i>More projects are available in my <a href="https://github.com/Karthikeyan-1018?tab=repositories">repositories</a>.</i></p>
 
----
+<h2 align="center">LeetCode Problem Solving</h2>
 
-<!-- GOALS -->
+<p align="center">
+  <a href="https://leetcode.com/u/Karthikeyan001018/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Karthikeyan001018?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Stats" />
+  </a>
+</p>
 
-## 🎯 2026 Goals
+<h2 align="center">Tech Stack</h2>
 
-```text
-☑ Build production-quality Full-Stack applications
-☑ Strengthen Java & Spring Boot
-☑ Build practical AI/ML projects
-☑ Improve AWS & Cloud skills
-☑ Learn Docker & DevOps
-☑ Strengthen Data Structures & Algorithms
-☑ Build Cybersecurity projects
-☑ Contribute to Open Source
-☑ Participate in Hackathons
-☑ Prepare for Software Engineering opportunities
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,vite,git,github&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=60A5FA" alt="Selenium" />
+</p>
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Karthikeyan-1018&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=e5e7eb&icon_color=3b82f6&border_color=2563eb&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Karthikeyan-1018&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=e5e7eb&border_color=2563eb&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan-1018&theme=dark&hide_border=false&border=2563eb&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=9ca3af" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center"><i>Happy to talk about full-stack development, AI/ML, cloud, or competitive programming.</i></p>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://www.linkedin.com/in/karthikeyan1018/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /><br /><br />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+      </a>
+      <br /><sub><b>Professional Network</b></sub>
+    </td>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://leetcode.com/u/Karthikeyan001018/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=leetcode" width="60" height="60" alt="LeetCode" /><br /><br />
+        <img src="https://img.shields.io/badge/LeetCode-Profile-2563EB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
+      </a>
+      <br /><sub><b>Problem Solving</b></sub>
+    </td>
+  </tr>
+</table>
